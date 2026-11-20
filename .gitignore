@@ -1,0 +1,13 @@
+# Entorno virtual
+env/
+
+# Variables de entorno y datos de ADK
+.env
+.adk/
+
+# Tareas guardadas por el agente
+agente_estudio/tareas.json
+
+# Python
+__pycache__/
+*.pyc
